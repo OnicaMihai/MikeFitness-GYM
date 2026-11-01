@@ -1,0 +1,1 @@
+Sistemul de gestiune al sălii de fitness („MikeFitness GYM”) este conceput pentru a automatiza operațiunile administrative, gestionarea abonamentelor, programarea ședințelor de antrenament și evidența plăților. Aplicația oferă acces structurat pentru trei categorii de utilizatori (Admin, Antrenor, Client).
